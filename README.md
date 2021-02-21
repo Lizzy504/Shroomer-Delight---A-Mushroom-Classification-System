@@ -1,4 +1,4 @@
-# Shroomer-Delight
+# Shroomer-Delight - A Mushroom Classification System 
 Data Curation Project- A repository on about a hypothetical data set entitled "Mushroom Classification: Safe to Eat or Deadly Poison"
 
 This repository consists of several files:
