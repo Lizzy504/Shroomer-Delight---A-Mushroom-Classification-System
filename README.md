@@ -12,4 +12,6 @@ Assignment 2 Part 1 – Data and Metadata Profile
 
 Assignment 3 Part 2  – Data Repository Investigation 
 
-Additional Information File - Consists of data citiation, statement about copyright license for this data set
+Data Citation - 
+
+Copyright License - 
