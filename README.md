@@ -14,4 +14,4 @@ Assignment 3 Part 2  – Data Repository Investigation
 
 Data Citation - 
 
-Copyright License - 
+Copyright License - Creative Commons Zero v1.0 Universal
