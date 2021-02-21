@@ -1,0 +1,24 @@
+<resource xmlns:xsi="https://www.kaggle.com/uciml/mushroom-classification " xmlns="https://www.kaggle.com/uciml/mushroom-classification " xsi:schemaLocation=" https://www.kaggle.com/uciml/mushroom- https://www.kaggle.com/uciml/mushroom-classification>
+<creators>
+<creator>
+<creatorName nameType="Personal">Schlimmer, Jeffrey</creatorName>
+<givenName>Jeffrey</givenName>
+<familyName>Schlimmer</familyName>
+</creator>
+<creator>
+<titles>
+<title xml:lang="en">Mushroom Classification Safe to Eat or Deadly Poison</title>
+</titles>
+<publisher xml:lang="en">UCI Machine Learning</publisher>
+<publicationYear>1987</publicationYear>
+<subjects>
+<subject xml:lang="en">Earth and Nature</subject>
+<subject xml:lang="en">Botany</subject>
+<subject xml:lang="en">Mushrooms</subject>
+<subject xml:lang="en">Public Safety</subject>
+<subject xml:lang="en">UCI Machine Learning</subject>
+</subjects>
+<language>en</language>
+<resourceType resourceTypeGeneral="Dataset">Dataset</resourceType>
+<version>1.0</version>
+<descriptions>
