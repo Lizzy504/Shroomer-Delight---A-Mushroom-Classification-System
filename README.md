@@ -10,9 +10,9 @@ Data File - Contains a dataset about mushrooms entitled “Mushroom Classificati
 Attribute Information File  -  Descripton of attributes helps to understand code in the data file. For example   cap-shape: bell=b,conical=c,convex=x,flat=f, knobbed=k,sunken=s
  cap-surface: fibrous=f,grooves=g,scaly=y,smooth=s
 
-Assignment 2 Part 1 – Data and Metadata Profile 
+Assignment Final Project Draft - Contains Part 1 - Data and Metadata Profile, Part 2 Data Repository Investigation, and Part 3 Additinal Information  
 
-Assignment 3 Part 2  – Data Repository Investigation 
+
 
 Data Citation - https://www.kaggle.com/uciml/mushroom-classification
 Although this dataset was originally contributed to the UCI Machine Learning repository nearly 30 years ago, mushroom hunting (otherwise known as "shrooming") is enjoying new peaks in popularity.Donated to UCI ML 27 April 1987 by Jeff Schlimmer
