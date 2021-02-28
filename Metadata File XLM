@@ -29,4 +29,7 @@
 <description xml:lang="en" descriptionType="Abstract"> to 23 species of gilled mushrooms in the Agaricus and Lepiota Family from The Audubon Society Field Guide to </description>
 <description xml:lang="en" descriptionType="Abstract"> North American Mushrooms. </description>
 </descriptions>
+<rightsList>
+<rights rightsURI="https://creativecommons.org/publicdomain/zero/1.0/">Creative Commons: Public Domain</rights>
+</rightsList>
 </resource>
