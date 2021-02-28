@@ -22,6 +22,11 @@
 <resourceType resourceTypeGeneral="Dataset">Dataset</resourceType>
 <version>1.0</version>
 <descriptions>
-<description xml:lang="en" descriptionType="Abstract"> We developed an instrument, Critical Engineering Literacy Test (CELT), which is a multiple choice instrument designed to measure undergraduate students’ scientific and information literacy skills. It requires students to first read a technical memo and, based on the memo’s arguments, answer eight multiple choice and six open-ended response questions. We collected data from 143 first-year engineering students and conducted an item analysis. The KR-20 reliability of the instrument was .39. Item difficulties ranged between .17 to .83. The results indicate low reliability index but acceptable levels of item difficulties and item discrimination indices. Students were most challenged when answering items measuring scientific and mathematical literacy (i.e., identifying incorrect information). </description>
+<description xml:lang="en" descriptionType="Abstract"> Contains a data set about mushrooms entitled "Mushroom Classification Safe to Eat or Deadly Poison."</description>
+<description xml:lang="en" descriptionType="Abstract"> This data set not only benefits the scientific community, but it is a useful data set in distinguishing between </description>
+<description xml:lang="en" descriptionType="Abstract"> edible and poisonous mushrooms for the average "shrooming' individual. The data set is a csv. file that can be </description>
+<description xml:lang="en" descriptionType="Abstract"> opened using notepad or Excel. The Mushroom classification data set contains hypothetical samples corresponding </description>
+<description xml:lang="en" descriptionType="Abstract"> to 23 species of gilled mushrooms in the Agaricus and Lepiota Family from The Audubon Society Field Guide to </description>
+<description xml:lang="en" descriptionType="Abstract"> North American Mushrooms. </description>
 </descriptions>
 </resource>
