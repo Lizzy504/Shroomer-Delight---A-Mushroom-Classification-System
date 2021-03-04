@@ -15,6 +15,6 @@ Assignment Final Project Draft - Contains Part 1 - Data and Metadata Profile, Pa
 
 
 Data Citation - https://www.kaggle.com/uciml/mushroom-classification
-Although this dataset was originally contributed to the UCI Machine Learning repository nearly 30 years ago, mushroom hunting (otherwise known as "shrooming") is enjoying new peaks in popularity.Donated to UCI ML 27 April 1987 by Jeff Schlimmer
+Although this dataset was originally contributed to the UCI Machine Learning repository nearly 30 years ago, mushroom hunting (otherwise known as "shrooming") is enjoying new peaks in popularity.Donated to UCI ML 27 April 1987 by Jeff Schlimmer.
 
 Copyright License - Creative Commons Zero v1.0 Universal
