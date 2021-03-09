@@ -5,12 +5,12 @@ This repository consists of several files:
 
 Metadata File - Written in XML this file contains metadata consisting of resource,creator, title, publisher, tags, language, and resource type. Note: A DOI could not be found for this data set, so the XML files reflects this by a blank element for this field as follows: <identifer identiferType="DOI"<>/identifier>.
 
-Data File - Contains a dataset about mushrooms entitled “Mushroom Classification Safe to Eat or Deadly Poison". This data set not only benefits the scientific community, but it is a useful data set in distinguishing between edible and poisonous mushrooms for the average “shrooming” individual.The data set is a .csv file that can be opened using notepad or Excel. I currently have the .csv file to open with Excel. There is also a raw data file entitled agaricus-lepiota(6).data, which contains the same data ( duplicate information) as the .csv file that was opened using notepad.  The Mushroom Classification data set contains hypothetical samples corresponding to 23 species of gilled mushrooms in the Agaricus and Lepiota Family from The Audubon Society Field Guide to North American Mushrooms.
+Data File - Contains a dataset about mushrooms entitled “Mushroom Classification Safe to Eat or Deadly Poison". This data set not only benefits the scientific community, but it is a useful data set in distinguishing between edible and poisonous mushrooms for the average “shrooming” individual.The data set is a .csv file that can be opened using notepad or Excel. I currently have the .csv file to open with Excel, which also includes a header metadata. There is also a raw data file entitled agaricus-lepiota(6).data, which contains the same data ( duplicate information) as the .csv file that was obtained by opening the file using notepad.  The Mushroom Classification data set contains hypothetical samples corresponding to 23 species of gilled mushrooms in the Agaricus and Lepiota Family from The Audubon Society Field Guide to North American Mushrooms.
 
 Attribute Information File  -  Descripton of attributes helps to understand code in the data file. For example   cap-shape: bell=b,conical=c,convex=x,flat=f, knobbed=k,sunken=s
  cap-surface: fibrous=f,grooves=g,scaly=y,smooth=s
 
-Assignment Final Project Draft - Contains Part 1 - Data and Metadata Profile, Part 2 Data Repository Investigation, and Part 3 Additinal Information  
+Assignment Final Project  - Contains Part 1 - Data and Metadata Profile, Part 2 Data Repository Investigation, and Part 3 Additinal Information  
 
 
 
